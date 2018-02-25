@@ -1,6 +1,6 @@
-# hack_CU
+# Hack_CU
 
 https://safetystocks.net
 
-# project by Dakota Parker, Roderic Deichler, Alicia Tran
+### project by Dakota Parker, Roderic Deichler, Alicia Tran
 
