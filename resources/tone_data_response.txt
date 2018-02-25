@@ -1,0 +1,8 @@
+[Document tones]
+Sadness:0.518649
+Analytical:0.88282
+Tentative:0.902459
+[Sentence tone frequencies]
+Analytical:3
+Tentative:2
+Sadness:1
