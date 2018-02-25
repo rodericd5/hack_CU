@@ -1,6 +1,6 @@
 # hack_CU
 
-`https://safetystocks.net`
+[I'm an inline-style link]https://safetystocks.net`
 
 # project by Dakota Parker, Roderic Deichler, Alicia Tran
 
